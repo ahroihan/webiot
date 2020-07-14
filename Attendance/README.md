@@ -1,33 +1,39 @@
-<link rel="shortcut icon" href="https://webiot.id/assets/ssp/img/favicon.ico">
-<img src="https://webiot.id/iot.png" alt="WEBIoT.id" title="WEBIoT.id">
+<a href="https://github.com/ahroihan/webiot" target="_blank"><img src="https://webiot.id/iot.png" alt="WEBIoT.id" title="WEBIoT.id"></a>
+<br>
 
 # SISTEM ABSENSI FACE
 Aplikasi absensi atau kehadiran menggunakan teknik pengenalan wajah plus hikVision
 
 <input type="button" onclick="history.back();" class="btn btn-success" value="BACK" />
+<br><br>
 
 ### WEBIoT
 
-- <a href="https://github.com/ahroihan/webiot/Attendance"> Attendance System (Sistem Absensi Face) </a>
+- <a href="/Attendance" target="_blank"> Attendance System (Sistem Absensi Face) </a>
   
-  Sample -> <a href="https://webiot.id/absen"> Link </a>
+  Sample -> <a href="https://webiot.id/absen" target="_blank"> Link </a>
+<br>
 
-
-- <a href="https://github.com/ahroihan/webiot/Decision Tree C4.5"> Decision Tree C4.5 </a>
+- <a href="/Decision Tree C4.5" target="_blank"> Decision Tree C4.5 </a>
   
-  Sample -> <a href="https://webiot.id/link"> Link </a>
+  Sample -> <a href="https://webiot.id/link" target="_blank"> Link </a>
+<br>
 
-
-- <a href="https://github.com/ahroihan/webiot/Toko"> Toko </a>
+- <a href="/Toko" target="_blank"> Toko </a>
   
-  Sample -> <a href="https://webiot.id/toko"> Link </a>
+  Sample -> <a href="https://webiot.id/toko" target="_blank"> Link </a>
+<br>
 
+- <a href="https://ahroihan.github.io/Master-PhpActiveRecord-SSP/" target="_blank"> Master-PhpActiveRecord-SSP </a>
+  
+  Sample -> <a href="https://webiot.id/ssp" target="_blank"> Link </a>
+<br><br>
 
 
 ### About Us
 
-<a href="https://github.com/ahroihan/webiot"> GITHUB </a>
-
+<a href="https://github.com/ahroihan/webiot" target="_blank"> GITHUB </a>
+<br><br>
 
 
 ### Donate
