@@ -18,7 +18,7 @@
   Sample -> <a href="https://webiot.id/toko" target="_blank"> Link </a>
 <br>
 
-- <a href="/Master-PhpActiveRecord-SSP" target="_blank"> Master-PhpActiveRecord-SSP </a>
+- <a href="https://ahroihan.github.io/Master-PhpActiveRecord-SSP/" target="_blank"> Master-PhpActiveRecord-SSP </a>
   
   Sample -> <a href="https://webiot.id/ssp" target="_blank"> Link </a>
 <br><br>
