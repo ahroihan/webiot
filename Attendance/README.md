@@ -1,2 +1,2 @@
-#SISTEM ABSENSI FACE
-Aplikasi kehadiran menggunakan pengenalan wajah plus hikVision
+# SISTEM ABSENSI FACE
+Aplikasi absensi atau kehadiran menggunakan teknik pengenalan wajah plus hikVision
