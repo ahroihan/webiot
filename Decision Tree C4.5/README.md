@@ -9,17 +9,17 @@ Aplikasi Data science memanfaatkan data mining dengan algoritma Decision Tree C4
 
 ### WEBIoT
 
-- <a href="/Attendance"> Attendance System (Sistem Absensi Face) </a>
+- <a href="https://ahroihan.github.io/webiot/Attendance"> Attendance System (Sistem Absensi Face) </a>
   
   Sample -> <a href="https://webiot.id/absen" target="_blank"> Link </a>
 <br>
 
-- <a href="/Decision Tree C4.5"> Decision Tree C4.5 </a>
+- <a href="https://ahroihan.github.io/webiot/Decision Tree C4.5"> Decision Tree C4.5 </a>
   
   Sample -> <a href="https://webiot.id/link" target="_blank"> Link </a>
 <br>
 
-- <a href="/Toko"> Toko </a>
+- <a href="https://ahroihan.github.io/webiot/Toko"> Toko </a>
   
   Sample -> <a href="https://webiot.id/toko" target="_blank"> Link </a>
 <br>
