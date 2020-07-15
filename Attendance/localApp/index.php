@@ -37,21 +37,21 @@
     <form accept-charset="utf-8" class="form-group" action="" data="ip0" id="ip0" method="POST">
       <div class="col-md-6">
         <div class="form-group">
-          <label for="ip" class="form-label">Ip</label>
+          <label for="ip" class="form-label">Ip DS-K1T331</label>
           <div class="controls">
-            <input class="form-control small-form" id="ip" type="text" name="ip" value="192.168.198.229" autofocus />
+            <input class="form-control small-form" id="ip" type="text" name="ip" value="192.168.1.1" autofocus />
           </div>
         </div>
         <div class="form-group">
           <label for="username" class="form-label">Username</label>
           <div class="controls">
-            <input class="form-control small-form" id="username" type="text" name="username" value="admin" />
+            <input class="form-control small-form" id="username" type="text" name="username" value="" />
           </div>
         </div>
         <div class="form-group">
           <label for="password" class="form-label">Password</label>
           <div class="controls">
-            <input class="form-control small-form" id="password" type="password" name="password" value="ar!234PLN" />
+            <input class="form-control small-form" id="password" type="password" name="password" value="" />
           </div>
         </div>
       </div>
