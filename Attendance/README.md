@@ -9,17 +9,17 @@ Aplikasi absensi atau kehadiran menggunakan teknik pengenalan wajah plus hikVisi
 
 ### WEBIoT
 
-- <a href="/Attendance" target="_blank"> Attendance System (Sistem Absensi Face) </a>
+- <a href="/Attendance"> Attendance System (Sistem Absensi Face) </a>
   
   Sample -> <a href="https://webiot.id/absen" target="_blank"> Link </a>
 <br>
 
-- <a href="/Decision Tree C4.5" target="_blank"> Decision Tree C4.5 </a>
+- <a href="/Decision Tree C4.5"> Decision Tree C4.5 </a>
   
   Sample -> <a href="https://webiot.id/link" target="_blank"> Link </a>
 <br>
 
-- <a href="/Toko" target="_blank"> Toko </a>
+- <a href="/Toko"> Toko </a>
   
   Sample -> <a href="https://webiot.id/toko" target="_blank"> Link </a>
 <br>
