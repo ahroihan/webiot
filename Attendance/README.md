@@ -5,6 +5,10 @@
 Aplikasi absensi atau kehadiran menggunakan teknik pengenalan wajah plus hikVision
 
 <input type="button" onclick="history.back();" class="btn btn-success" value="BACK" />
+<br>
+Bergabunglah dengan aplikasi Sistem Absensi Face webiot menggunakan aplikasi berbasis web, berikut beberapa penjelasan di bawah ini:
+<br>
+<iframe src="https://drive.google.com/file/d/1spbYtqKXfNq-PnSy6Wlzg5DTwpu_xbwM/preview" scrolling="no" frameborder="0" width="100%" height="600"></iframe>  
 <br><br>
 
 ### WEBIoT
