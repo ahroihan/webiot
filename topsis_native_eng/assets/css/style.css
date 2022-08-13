@@ -1,0 +1,158 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Sans-serif;
+}
+
+#wrap {
+	margin: 0 auto 30px;
+}
+
+#regbar {
+	height: 40px;
+	background: #121731;
+	padding: 10px 15px;
+}
+
+h3 {
+	position:absolute right;
+	padding: 7px 50px;
+	color: #ecf0f1;
+	float:right;
+}
+
+.brand {
+	position:absolute;
+	padding: 7px;
+	color: #ecf0f1;
+	font-weight:bold;
+	font-size:20px;
+}
+
+#regbar img{
+	padding-top: 0px;
+	padding-left:50px;
+}
+
+#bottom {
+	position: fixed;
+	right:-32px;
+	bottom:-45px;
+}
+
+img{
+	opacity: 0.8;
+}
+
+fieldset {
+	border: none;
+}
+
+.login {
+	position: absolute;
+	right:0%;
+	width: 350px;
+	display: none;
+	padding:15px 45px;
+	margin-top: 5px;
+}
+
+section {
+  width: 100%;
+}
+
+.left-half {
+  background-color: transparent;
+  float: left;
+  width: 40%;
+  max-width: 50%;
+  padding: 0 50px;
+}
+.right-half {
+  background-color: #eeeeee;
+  float: left;
+  width: 45%;
+}
+
+.arrow-up {
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 15px solid #ECF0F1;
+	padding-top:15px;
+	right: 13%;
+	position: absolute;
+	top: -10px;
+}
+
+.formholder {
+	background: #ecf0f1;
+	width: 350px;
+	border-radius: 5px;
+	padding-top: 5px;
+}
+.formholder input[type="text"], .formholder input[type="password"] {
+	padding: 7px 5px;
+	margin: 10px 0;
+	width: 96%;
+	display: block;
+	font-size: 18px;
+	border-radius: 5px;
+	border: outset;
+	-webkit-transition: 0.3s linear;
+	-moz-transition: 0.3s linear;
+	-o-transition: 0.3s linear;
+	transition: 0.3s linear;
+}
+.formholder input[type="text"]:focus, .formholder input[type="password"]:focus {
+	outline: none;
+	box-shadow: 0 0 1px 1px #121731;
+}
+.formholder input[type="submit"] {
+	background: #121731;
+	padding: 10px;
+	font-size: 20px;
+	display: block;
+	width: 100%;
+	border: none;
+	color: #fff;
+	border-radius: 5px;
+}
+.formholder input[type="submit"]:hover {
+	background: #121731;
+}
+
+.randompad {
+	padding: 10px;
+}
+
+.green {
+	color: #1abc9c;
+}
+
+a {
+	color: #ecf0f1;
+	text-decoration: none;
+}
+a:hover {
+	color: #1abc9c;
+}
+
+
+.owl-carousel .owl-nav{display:block;position:absolute;text-indent:inherit;top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-o-transform:translateY(-50%);-ms-transform:translateY(-50%);-moz-transform:translateY(-50%);left:0;width:100%;cursor:pointer;z-index:999}
+.owl-carousel .owl-nav .owl-prev{display:block;position:absolute;text-align:center;text-indent:inherit;left:-8%;width:auto;cursor:pointer;-webkit-transition:opacity .3s ease 0s,left .3s ease 0s;-moz-transition:opacity .3s ease 0s,left .3s ease 0s;-ms-transition:opacity .3s ease 0s,left .3s ease 0s;-o-transition:opacity .3s ease 0s,left .3s ease 0s;transition:opacity .3s ease 0s,left .3s ease 0s}
+.owl-carousel .owl-nav .owl-next{display:block;position:absolute;text-align:center;text-indent:inherit;right:-8%;width:auto;cursor:pointer;-webkit-transition:opacity .3s ease 0s,right .3s ease 0s;-moz-transition:opacity .3s ease 0s,right .3s ease 0s;-ms-transition:opacity .3s ease 0s,right .3s ease 0s;-o-transition:opacity .3s ease 0s,right .3s ease 0s;transition:opacity .3s ease 0s,right .3s ease 0s}
+.owl-carousel .owl-nav i{font-size:24px;border-radius:50%;width:44px;height:44px;line-height:42px;padding-left:0;display:inline-block;color:#fff;background:#e7e7e7;font-weight:400;text-align:center;-webkit-transition:all .3s ease-out 0s;-moz-transition:all .3s ease-out 0s;-ms-transition:all .3s ease-out 0s;-o-transition:all .3s ease-out 0s;transition:all .3s ease-out 0s}
+.owl-carousel .owl-nav i:hover{background:#4ac4f3;color:#fff}
+.owl-carousel .owl-controls .owl-dot{margin-top:20px;display:inline-block}
+.owl-carousel .owl-dots{position:relative;width:100%;display:inline-block;text-indent:inherit;text-align:center;cursor:pointer}
+.owl-carousel .owl-dots .owl-dot span{background:#fff;display:inline-block;border-radius:30px;margin:0 5px;height:8px;width:8px;transition:all .3s ease-in-out;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;cursor:pointer}
+.owl-carousel .owl-dots .owl-dot:hover,.owl-carousel .owl-dots .owl-dot.active{outline:none;border:none}
+.owl-carousel .owl-dots .owl-dot:hover span{background:#fff}
+.owl-carousel .owl-dots .owl-dot.active span{background:#fff;box-shadow:0 0 0 6px rgba(255,255,255,.2)}
