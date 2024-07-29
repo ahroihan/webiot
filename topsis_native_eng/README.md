@@ -113,7 +113,7 @@ $$
 
 Dari perhitungan di atas, alternatif A3 adalah yang terbaik karena memiliki nilai preferensi tertinggi (0.686). #WEBIOTID #PakAR #TOPSIS #DecisionMaking #MultiCriteriaAnalysis #MachineLearning #DataScience #Optimization
 
-WEBIOTID menyediakan aplikasi pemrograman metode TOPSIS dengan menggunakan bahasa pemrograman php native. contoh demo aplikasi dapat anda gunakan dengan mengunjungi [link ini](https://layanan.webiot.id/topsis/). Hubungi kami untuk mendapatkan full source code [aplikasi pemrograman metode TOPSIS](https://webiot.id/#payment)
+WEBIOTID menyediakan aplikasi pemrograman metode TOPSIS dengan menggunakan bahasa pemrograman php native. contoh demo aplikasi dapat anda gunakan dengan mengunjungi [link ini](https://layanan.webiot.id/topsis/){:target="_blank" rel="noopener"}. Hubungi kami untuk mendapatkan full source code [aplikasi pemrograman metode TOPSIS](https://webiot.id/#payment){:target="_blank" rel="noopener"}.
 
 <img loading="lazy" width="700px" src="./images/home.png" alt="Dashboard" />
 
