@@ -15,6 +15,7 @@
 2. **Normalisasi Matriks Keputusan**
 - Normalisasi dilakukan untuk mengubah berbagai skala kriteria menjadi skala yang sama.
 - Rumus normalisasi:
+
 $$
 r_{ij} = \frac{x_{ij}}{\sqrt{\sum_{i=1}^{n} x_{ij}^2}}
 $$
@@ -22,6 +23,7 @@ $$
 3. **Membangun Matriks Keputusan Ternormalisasi Terbobot**
 - Matriks ini diperoleh dengan mengalikan setiap elemen matriks normalisasi dengan bobot kriteria yang sesuai.
 - Rumusnya:
+
 $$
 v_{ij} = w_j \cdot r_{ij}
 $$
@@ -29,26 +31,31 @@ di mana \($w_j$\) adalah bobot kriteria \($C_j$\).
 
 4. **Menentukan Solusi Ideal Positif \($A^*$\) dan Solusi Ideal Negatif \($A^-$\)**
 - Solusi ideal positif \($A^*$\) mencakup nilai terbaik untuk setiap kriteria:
+
 $$
 A^* = \{v_1^*, v_2^*, ..., v_m^*\} = \left\{\max(v_{ij}) \text{ untuk } kriteria \text{ benefit}, \min(v_{ij}) \text{ untuk } kriteria \text{ cost}\right\}
 $$
 - Solusi ideal negatif \($A^-$\) mencakup nilai terburuk untuk setiap kriteria:
+
 $$
 A^- = \{v_1^-, v_2^-, ..., v_m^-\} = \left\{\min(v_{ij}) \text{ untuk } kriteria \text{ benefit}, \max(v_{ij}) \text{ untuk } kriteria \text{ cost}\right\}
 $$
 
 5. **Menghitung Jarak dari Solusi Ideal Positif dan Negatif**
 - Jarak dari solusi ideal positif:
+
 $$
 D_i^* = \sqrt{\sum_{j=1}^{m} (v_{ij} - v_j^*)^2}
 $$
 - Jarak dari solusi ideal negatif:
+
 $$
 D_i^- = \sqrt{\sum_{j=1}^{m} (v_{ij} - v_j^-)^2}
 $$
 
 6. **Menghitung Nilai Preferensi untuk Setiap Alternatif**
 - Nilai preferensi untuk setiap alternatif dihitung menggunakan formula:
+
 $$
 C_i^* = \frac{D_i^-}{D_i^- + D_i^*}
 $$
