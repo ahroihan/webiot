@@ -51,6 +51,7 @@ $$
 $$
 D_i^* = \sqrt{\sum_{j=1}^{m} (v_{ij} - v_j^*)^2}
 $$
+
 - Jarak dari solusi ideal negatif:
 
 $$
