@@ -20,7 +20,7 @@ $$
 $$
 
 3. **Menilai Setiap Alternatif pada Setiap Kriteria**
-- Berikan nilai \($ x_{ij}$\) untuk setiap alternatif \($ A_i$\) pada kriteria \($ C_j$\). Nilai ini mencerminkan seberapa baik alternatif memenuhi kriteria.
+- Berikan nilai \($x_{ij}$\) untuk setiap alternatif \($A_i$\) pada kriteria \($C_j$\). Nilai ini mencerminkan seberapa baik alternatif memenuhi kriteria.
 
 4. **Normalisasi Nilai Alternatif**
 - Untuk kriteria benefit (keuntungan), nilai dinormalisasi menggunakan rumus:
