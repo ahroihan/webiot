@@ -13,17 +13,14 @@
 - Tentukan kriteria (C1, C2, ..., Cm) yang akan digunakan untuk mengevaluasi alternatif.
 
 2. **Menentukan Bobot Kriteria**
-- Berikan bobot \($ w_j $\) 
-untuk setiap kriteria \($ C_j $\) yang mencerminkan pentingnya kriteria tersebut. Bobot biasanya dinormalisasi sehingga jumlah totalnya adalah 1:
+- Berikan bobot \($ w_j$\) untuk setiap kriteria \($ C_j$\) yang mencerminkan pentingnya kriteria tersebut. Bobot biasanya dinormalisasi sehingga jumlah totalnya adalah 1:
 
 $$
 \sum_{j=1}^{m} w_j = 1
 $$
 
 3. **Menilai Setiap Alternatif pada Setiap Kriteria**
-- Berikan nilai \($ x_{ij} $\) 
-untuk setiap alternatif \($ A_i $\) 
-pada kriteria \($ C_j $\). Nilai ini mencerminkan seberapa baik alternatif memenuhi kriteria.
+- Berikan nilai \($ x_{ij}$\) untuk setiap alternatif \($ A_i$\) pada kriteria \($ C_j$\). Nilai ini mencerminkan seberapa baik alternatif memenuhi kriteria.
 
 4. **Normalisasi Nilai Alternatif**
 - Untuk kriteria benefit (keuntungan), nilai dinormalisasi menggunakan rumus:
