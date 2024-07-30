@@ -106,4 +106,6 @@ $$
 
 
 Dari perhitungan di atas, alternatif A3 adalah yang terbaik karena memiliki skor total tertinggi (0.967).
-#SMART #DecisionMaking #MultiCriteriaAnalysis #Benefit #Cost #Optimization
+#WEBIOTID #PakAR #SMART #DecisionMaking #MultiCriteriaAnalysis #Benefit #Cost #Optimization 
+
+WEBIOTID menyediakan aplikasi pemrograman metode SMART dengan menggunakan bahasa pemrograman php native. contoh demo aplikasi dapat anda gunakan dengan mengunjungi [link ini](https://layanan.webiot.id/smart/). Hubungi kami untuk mendapatkan full source code [aplikasi pemrograman metode SMART](https://webiot.id/#payment)
