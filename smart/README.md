@@ -13,7 +13,7 @@
 - Tentukan kriteria (C1, C2, ..., Cm) yang akan digunakan untuk mengevaluasi alternatif.
 
 2. **Menentukan Bobot Kriteria**
-- Berikan bobot \($ w_j$\) untuk setiap kriteria \($ C_j$\) yang mencerminkan pentingnya kriteria tersebut. Bobot biasanya dinormalisasi sehingga jumlah totalnya adalah 1:
+- Berikan bobot \($w_j$\) untuk setiap kriteria \($C_j$\) yang mencerminkan pentingnya kriteria tersebut. Bobot biasanya dinormalisasi sehingga jumlah totalnya adalah 1:
 
 $$
 \sum_{j=1}^{m} w_j = 1
