@@ -14,6 +14,7 @@
 
 2. **Menentukan Bobot Kriteria**
 - Berikan bobot \($ w_j $\) untuk setiap kriteria \($ C_j $\) yang mencerminkan pentingnya kriteria tersebut. Bobot biasanya dinormalisasi sehingga jumlah totalnya adalah 1:
+
 $$
 \sum_{j=1}^{m} w_j = 1
 $$
@@ -23,22 +24,27 @@ $$
 
 4. **Normalisasi Nilai Alternatif**
 - Untuk kriteria benefit (keuntungan), nilai dinormalisasi menggunakan rumus:
+
 $$
 r_{ij} = \frac{x_{ij}}{\max(x_{ij})}
 $$
+
 - Untuk kriteria cost (biaya), nilai dinormalisasi menggunakan rumus:
+
 $$
 r_{ij} = \frac{\min(x_{ij})}{x_{ij}}
 $$
 
 5. **Menghitung Nilai Ternormalisasi Terbobot**
 - Nilai ternormalisasi terbobot dihitung dengan mengalikan nilai normalisasi dengan bobot kriteria:
+
 $$
 v_{ij} = w_j \cdot r_{ij}
 $$
 
 6. **Menghitung Skor Total untuk Setiap Alternatif**
 - Skor total untuk setiap alternatif dihitung dengan menjumlahkan semua nilai ternormalisasi terbobot:
+
 $$
 S_i = \sum_{j=1}^{m} v_{ij}
 $$
@@ -63,10 +69,13 @@ $$
 
 1. **Normalisasi Nilai Alternatif**
 - Untuk kriteria benefit:
+
 $$
 r_{ij} = \frac{x_{ij}}{\max(x_{ij})}
 $$
+
 - Matriks normalisasi:
+
 $$
 \begin{array}{ccc}
 0.778 & 1.000 & 0.889 \\
@@ -77,6 +86,7 @@ $$
 
 2. **Menghitung Nilai Ternormalisasi Terbobot**
 - Matriks nilai ternormalisasi terbobot:
+
 $$
 \begin{array}{ccc}
 0.389 & 0.300 & 0.178 \\
@@ -87,6 +97,7 @@ $$
 
 3. **Menghitung Skor Total untuk Setiap Alternatif**
 - Skor total:
+
 $$
 S_1 = 0.867 \quad S_2 = 0.810 \quad S_3 = 0.967
 $$
