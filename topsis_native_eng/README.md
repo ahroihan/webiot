@@ -31,7 +31,7 @@ $$
 - di mana \($w_j$\) adalah bobot kriteria \($C_j$\).
 
 4. **Menentukan Solusi Ideal Positif \($A$\*\) dan Solusi Ideal Negatif \($A^-$\)**
-- Solusi ideal positif \($A$\*\) mencakup nilai terbaik untuk setiap kriteria:$$A^* = \{v_1^*, v_2^*, ..., v_m^*\} 
+- Solusi ideal positif \($A$\*\) mencakup nilai terbaik untuk setiap kriteria:$$A^\text{*} = \{v_1^*, v_2^*, ..., v_m^*\} 
 = \left\lbrace\max(v_{ij}) \text{ untuk } kriteria \text{ benefit}, \min(v_{ij}) \text{ untuk } kriteria \text{ cost}\right\rbrace$$
 
 - Solusi ideal negatif \($A^-$\) mencakup nilai terburuk untuk setiap kriteria: $$A^- = \{v_1^-, v_2^-, ..., v_m^-\} 
