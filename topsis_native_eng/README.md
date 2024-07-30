@@ -35,14 +35,14 @@ $$
 
 $$
 A^* = \{v_1^*, v_2^*, ..., v_m^*\} 
-= \left\lbrace\max(v_{ij}) \text{ untuk } kriteria \text{ benefit}, \min(v_{ij}) \text{ untuk } kriteria \text{ cost}\right.
+= \left\lbrace\max(v_{ij}) \text{ untuk } kriteria \text{ benefit}, \min(v_{ij}) \text{ untuk } kriteria \text{ cost}\right\rbrace
 $$
 
 - Solusi ideal negatif \($A^-$\) mencakup nilai terburuk untuk setiap kriteria:
 
 $$
 A^- = \{v_1^-, v_2^-, ..., v_m^-\} 
-= \left\lbrace\min(v_{ij}) \text{ untuk } kriteria \text{ benefit}, \max(v_{ij}) \text{ untuk } kriteria \text{ cost}\right.
+= \left\lbrace\min(v_{ij}) \text{ untuk } kriteria \text{ benefit}, \max(v_{ij}) \text{ untuk } kriteria \text{ cost}\right\rbrace
 $$
 
 5. **Menghitung Jarak dari Solusi Ideal Positif dan Negatif**
